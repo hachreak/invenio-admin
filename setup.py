@@ -65,7 +65,7 @@ setup_requires = [
 ]
 
 install_requires = [
-    'Flask>=0.11',
+    'Flask>=0.11.1',
     'Flask-Admin>=1.3.0',
     'Flask-Login>=0.3.0',
     'Flask-Principal>=0.4.0',
